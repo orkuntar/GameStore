@@ -1,1 +1,28 @@
 GET http://localhost:5096/games
+
+###
+
+GET http://localhost:5096/games/1
+
+###
+POST http://localhost:5096/games
+Content-Type: application/json
+
+{
+    "name": "Minecraft",
+    "genre": "Kids and Family",
+    "price": 19.99,
+    "releaseDate": "2011-11-18"
+}
+
+###
+PUT http://localhost:5096/games/1
+Content-Type: application/json
+
+ {
+    "id": 1,
+    "name": "Dark Souls 2",
+    "genre": "Fanstasy,SoulsLike",
+    "price": 9.99,
+    "releaseDate": "2000-12-23"
+  }

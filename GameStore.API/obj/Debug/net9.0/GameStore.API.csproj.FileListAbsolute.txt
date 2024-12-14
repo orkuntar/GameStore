@@ -26,3 +26,4 @@
 /Users/orkuntarhan/Desktop/Projects/ASP/GameStore/GameStore.API/obj/Debug/net9.0/GameStore.API.pdb
 /Users/orkuntarhan/Desktop/Projects/ASP/GameStore/GameStore.API/obj/Debug/net9.0/GameStore.API.genruntimeconfig.cache
 /Users/orkuntarhan/Desktop/Projects/ASP/GameStore/GameStore.API/obj/Debug/net9.0/ref/GameStore.API.dll
+/Users/orkuntarhan/Desktop/Projects/ASP/GameStore/GameStore.API/obj/Debug/net9.0/GameStore.API.sourcelink.json
